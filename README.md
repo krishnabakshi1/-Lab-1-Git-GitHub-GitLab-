@@ -1,1 +1,1 @@
-# -Lab-1-Git-GitHub-GitLab-
+Just a basic python code for a numpy array contaning values from 0 to 99. 
